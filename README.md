@@ -9,6 +9,6 @@ LAYOUT-Layout name with the field (COLUMN) on it available to the FileMaker Data
 
 PASSWORD-The password for the FileMaker Data API Account
 
-SERVER-The FileMaker Server Address ie "https://yourserver.com
+SERVER-The FileMaker Server Address ie "https://yourserver.com"
 
 USER-The FileMaker Data API Account Name
