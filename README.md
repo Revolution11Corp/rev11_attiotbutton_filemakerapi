@@ -14,3 +14,7 @@ ACCOUNT - Name of an account that has fmrest (Data API) privileges.
 PASSWORD - The password for ACCOUNT above.
 
 Made with ❤️ by Revolution11. Available on the [AWS Serverless Application Repository](https://aws.amazon.com/serverless)
+
+FileMaker Sample File Credentials:
+Full Access Account:admin
+Full Access Password:admin
